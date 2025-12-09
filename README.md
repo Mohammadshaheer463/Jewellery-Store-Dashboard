@@ -54,8 +54,20 @@ POS → Sale Items → Customer Mapping → Excel Export
 - Data privacy & access control
 
 ---
+## What I Learned
 
-##Status
+- Desktop GUI development
+- Database schema design & migrations
+- POS logic and transactional integrity
+- Barcode generation systems
+- Threaded background workers
+- Client requirement handling
+- Data privacy & access control
+---
+## Live Demo (kinda)
+- link : https://youtu.be/BLYN93AOImo
+---
+## Status
 
 Live in client production  
 Built solo from scratch  
